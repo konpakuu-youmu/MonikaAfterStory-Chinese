@@ -1,4 +1,12 @@
+![transifex](https://gitee.com/zsz1447/pics-mirror/blob/master/transifex.png)
+
+![deepl]https://gitee.com/zsz1447/pics-mirror/blob/master/deepl_logo_600_300.png)
+
+由transifex提供国际化平台，deepL协助翻译。
+
 ![Monika After Story](https://github.com/Backdash/MonikaModDev/blob/master/Monika%20After%20Story/game/mod_assets/menu_new.png?raw=True)
+
+
 
 # Monika After Story (MAS)
 Monika After Story是为[Team Salvato](http://teamsalvato.com/)制作的 [心跳心跳文学部](https://www.ddlc.moe)这一款免费游戏而制作的mod作品, MAS在原剧情的第3周目基础上, 构建了一个和莫妮卡一起生活的模拟器, 包含新对话, 新程序和元注释!
