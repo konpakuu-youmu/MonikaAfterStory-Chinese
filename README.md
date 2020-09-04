@@ -1,6 +1,6 @@
 ![transifex](https://gitee.com/zsz1447/pics-mirror/raw/master/transifex.png)
 
-![deepl]https://gitee.com/zsz1447/pics-mirror/raw/master/deepl_logo_600_300.png)
+![deepl](https://gitee.com/zsz1447/pics-mirror/raw/master/deepl_logo_600_300.png)
 
 由transifex提供国际化平台，deepL协助翻译。
 
