@@ -1,3 +1,5 @@
+迁移至https://git.ddlc.top/mtr/MonikaModDevDocs-CN 
+
 ![transifex](https://gitee.com/zsz1447/pics-mirror/raw/master/transifex.png)
 
 ![deepl](https://gitee.com/zsz1447/pics-mirror/raw/master/deepl_logo_600_300.png)
